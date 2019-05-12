@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2018.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Usuario\Desktop\Lucas\UBA 2018\ALGO 2\tp1_base\tp1_base"
+-- Could NOT find PythonInterp (missing: PYTHON_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug

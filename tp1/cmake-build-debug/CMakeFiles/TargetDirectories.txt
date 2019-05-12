@@ -1,0 +1,15 @@
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/install/strip.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/correrTests.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/list_install_components.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/gtest.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/gtest_main.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/install/local.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/install.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/rebuild_cache.dir
+C:/Users/Usuario/Desktop/Lucas/UBA 2018/ALGO 2/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/install/strip.dir

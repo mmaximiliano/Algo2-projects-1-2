@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="solucion" targetName="gtest_main" />
+      <config projectName="solucion" targetName="correrTests" />
+      <config projectName="solucion" targetName="gtest" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="856fc4af-ed16-4226-823b-4b07838f264e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/tests/google-test/CMakeFiles/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Calucladora.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Calucladora.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2294">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_calculadora.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/test_calculadora.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3859">
+              <caret line="227" lean-forward="true" selection-start-line="227" selection-end-line="227" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculadora.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Calculadora.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <folding>
+                <element signature="e#62#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Programa.cpp" />
+        <option value="$PROJECT_DIR$/src/Instruccion.cpp" />
+        <option value="$PROJECT_DIR$/src/Instruccion.h" />
+        <option value="$PROJECT_DIR$/src/Calculadora.h" />
+        <option value="$PROJECT_DIR$/tests/test_instruccion.cpp" />
+        <option value="$PROJECT_DIR$/tests/test_programa.cpp" />
+        <option value="$PROJECT_DIR$/src/Programa.h" />
+        <option value="$PROJECT_DIR$/src/Calucladora.cpp" />
+        <option value="$PROJECT_DIR$/tests/test_calculadora.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="18" />
+    <option name="y" value="-26" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="solucion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp1_base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solucion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp1_base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solucion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp1_base" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Google Test.All in test_calculadora.cpp">
+    <configuration name="All in test_calculadora.cpp (1)" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="solucion" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="solucion" RUN_TARGET_NAME="correrTests" TEST_PATTERN="" TEST_MODE="PATTERN" />
+    <configuration name="All in test_calculadora.cpp" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="solucion" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="solucion" RUN_TARGET_NAME="correrTests" TEST_PATTERN="test_calulcadora.*:test_calulcadora/*.*:*/test_calulcadora.*/*:*/test_calulcadora/*.*:test_calculadora.*:test_calculadora/*.*:*/test_calculadora.*/*:*/test_calculadora/*.*" TEST_MODE="PATTERN" />
+    <configuration name="All in test_instruccion.cpp" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="solucion" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="solucion" RUN_TARGET_NAME="correrTests" TEST_PATTERN="test_instruccion.*:test_instruccion/*.*:*/test_instruccion.*/*:*/test_instruccion/*.*:test.*:test/*.*:*/test.*/*:*/test/*.*:test2.*:test2/*.*:*/test2.*/*:*/test2/*.*:test3.*:test3/*.*:*/test3.*/*:*/test3/*.*:test4.*:test4/*.*:*/test4.*/*:*/test4/*.*:test5.*:test5/*.*:*/test5.*/*:*/test5/*.*" TEST_MODE="PATTERN" />
+    <configuration name="All in test_programa.cpp" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="solucion" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="solucion" RUN_TARGET_NAME="correrTests" TEST_PATTERN="test_programa.*:test_programa/*.*:*/test_programa.*/*:*/test_programa/*.*:testPrograma.*:testPrograma/*.*:*/testPrograma.*/*:*/testPrograma/*.*" TEST_MODE="PATTERN" />
+    <configuration name="correrTests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="solucion" TARGET_NAME="correrTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="solucion" RUN_TARGET_NAME="correrTests" TEST_MODE="SUITE_TEST" />
+    <configuration name="test_calculadora.jampzCuandoNoesCero_ConPilaVacia_CuandoRutinaNoExiste" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="solucion" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="solucion" RUN_TARGET_NAME="correrTests" TEST_CLASS="test_calculadora" TEST_METHOD="jampzCuandoNoesCero_ConPilaVacia_CuandoRutinaNoExiste" TEST_MODE="SUITE_TEST" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="solucion" TARGET_NAME="gtest" CONFIG_NAME="Debug" />
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="solucion" TARGET_NAME="gtest_main" CONFIG_NAME="Debug" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Google Test.correrTests" />
+      <item itemvalue="Application.gtest" />
+      <item itemvalue="Application.gtest_main" />
+      <item itemvalue="Google Test.test_calculadora.jampzCuandoNoesCero_ConPilaVacia_CuandoRutinaNoExiste" />
+      <item itemvalue="Google Test.All in test_calculadora.cpp" />
+      <item itemvalue="Google Test.All in test_programa.cpp" />
+      <item itemvalue="Google Test.All in test_instruccion.cpp" />
+      <item itemvalue="Google Test.All in test_calculadora.cpp (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.All in test_calculadora.cpp" />
+        <item itemvalue="Google Test.All in test_calculadora.cpp (1)" />
+        <item itemvalue="Google Test.All in test_instruccion.cpp" />
+        <item itemvalue="Google Test.All in test_programa.cpp" />
+        <item itemvalue="Google Test.test_calculadora.jampzCuandoNoesCero_ConPilaVacia_CuandoRutinaNoExiste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="856fc4af-ed16-4226-823b-4b07838f264e" name="Default" comment="" />
+      <created>1522869259736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522869259736</updated>
+      <workItem from="1522869265792" duration="13521000" />
+      <workItem from="1523402481180" duration="2933000" />
+      <workItem from="1523664160865" duration="10724000" />
+      <workItem from="1523815762759" duration="6134000" />
+      <workItem from="1523822074169" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test_calculadora_jampzCuandoNoesCero_ConPilaVacia_CuandoRutinaNoExiste - 2018.04.15 at 16h 27m 37s.xml">
+      <configuration name="test_calculadora.jampzCuandoNoesCero_ConPilaVacia_CuandoRutinaNoExiste" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_calculadora_jampzCuandoNoesCero_ConPilaVacia_CuandoRutinaNoExiste - 2018.04.15 at 16h 38m 09s.xml">
+      <configuration name="test_calculadora.jampzCuandoNoesCero_ConPilaVacia_CuandoRutinaNoExiste" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_calculadora_jampzCuandoNoesCero_ConPilaVacia_CuandoRutinaNoExiste - 2018.04.15 at 16h 38m 38s.xml">
+      <configuration name="test_calculadora.jampzCuandoNoesCero_ConPilaVacia_CuandoRutinaNoExiste" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test_calculadora_jampzCuandoNoesCero_ConPilaVacia_CuandoRutinaNoExiste - 2018.04.15 at 16h 41m 58s.xml">
+      <configuration name="test_calculadora.jampzCuandoNoesCero_ConPilaVacia_CuandoRutinaNoExiste" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_in_test_calculadora_cpp - 2018.04.15 at 16h 42m 07s.xml">
+      <configuration name="All in test_calculadora.cpp" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_in_test_calculadora_cpp - 2018.04.15 at 16h 44m 11s.xml">
+      <configuration name="All in test_calculadora.cpp" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_in_test_programa_cpp - 2018.04.15 at 16h 44m 30s.xml">
+      <configuration name="All in test_programa.cpp" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_in_test_instruccion_cpp - 2018.04.15 at 16h 44m 35s.xml">
+      <configuration name="All in test_instruccion.cpp" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_in_test_calculadora_cpp_(1) - 2018.04.15 at 16h 53m 37s.xml">
+      <configuration name="All in test_calculadora.cpp (1)" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_in_test_calculadora_cpp - 2018.04.15 at 16h 54m 53s.xml">
+      <configuration name="All in test_calculadora.cpp" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33906000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3290938" />
+      <window_info anchor="bottom" id="CMake" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40858504" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Calucladora.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculadora.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#62#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_calculadora.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_instruccion.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="138" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_programa.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="114" column="34" lean-forward="true" selection-start-line="114" selection-start-column="34" selection-end-line="114" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utiles.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/google-test/src/gtest_main.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/google-test/include/gtest/gtest.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="2237" selection-start-line="2237" selection-end-line="2237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/google-test/src/gtest.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="4260" selection-start-line="4260" selection-end-line="4260" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Programa.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="67" />
+          <folding>
+            <element signature="e#46#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Instruccion.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Instruccion.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="50" />
+          <folding>
+            <element signature="e#53#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Programa.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_programa.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_instruccion.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculadora.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#62#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calucladora.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2294">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_calculadora.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3859">
+          <caret line="227" lean-forward="true" selection-start-line="227" selection-end-line="227" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
